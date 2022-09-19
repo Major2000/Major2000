@@ -2,7 +2,7 @@
 - 👀 I’m interested in microchips programming and cybersecurity!
 - 🌱 I’m explorer in Assembly Language (NASM) for x32 bit system kernel programming!
 - 💞️ I’m looking to collaborate on cybersecurity master classes and challenges.
-- 📫 How to reach me Gmail >> mailto:edgarnyandoro23@gmail.com or call me +255 788 137 978
+- 📫 How to reach me Gmail >> edgarnyandoro23@gmail.com or call me +255 788 137 978
 - 🔗 Blog: https://major2000.github.io
 
 <!---
