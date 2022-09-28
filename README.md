@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Edgar Nyandoro @Major2000
+- 👋 Hi, I’m Edgar Nyandoro [@Major2000](https://github.com/Major2000)
 - 👀 I’m interested in microchips programming and cybersecurity!
 - 🌱 I explore Assembly Language (NASM) for x32 bit system kernel programming!
 - 💞️ I’m looking to collaborate on cybersecurity master classes and challenges.
