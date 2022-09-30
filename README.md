@@ -23,23 +23,20 @@
 <p align="center">
 For enquiries, reach out to <a href="https://github.com/Major2000">@Major2000</a> on:
 <br/>
-<a href="https://major2000.github.io"><img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=Blog&logoColor=white" alt="Blog"></a>
+<br/>
 <a href="mailto:edgarnyandoro23@gmail.com"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="mail"></a>
 <a href="https://twitter.com/EdgarChebe"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
 <a href="https://www.linkedin.com/in/edgar-nyandoro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://hackerone.com/major2000"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerOne&logoColor=Blue"></a>
 </p>
 
-<h2 align="center"><i>good luck!🌝</i></h2>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=Major2000&label=VISITORS"></p>
 
 <details>
     <summary>Click for GitHub Stats</summary>
     <p align="center">
-        <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Major2000&show_icons=true&hide=issues&icon_color=black&hide_border=true&title_color=5391FE&text_color=555">
-        <br/>
-        <img alt = "Over view" src="https://github-readme-streak-stats.herokuapp.com/?user={Major2000}">
-        <img alt = "Over view" src="https://github-profile-trophy.vercel.app/?username={Major2000}">
+        <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark" width="350">
+        <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtenzq&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8"
     </p>
 </details>
 
