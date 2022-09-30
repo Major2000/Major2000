@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-For enquiries, reach out to <a href="https://github.com/Major2000">@Major2000</a> on:
+For enquiries, reach out to <a href="https://github.com/Major2000">Edgar @Major2000</a> over:
 <br/>
 <br/>
 <a href="mailto:edgarnyandoro23@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="mail"></a>
