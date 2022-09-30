@@ -33,7 +33,7 @@ For enquiries, reach out to <a href="https://github.com/Major2000">Edgar @Major2
 <p align="right"><img src="https://komarev.com/ghpvc/?username=Major2000&label=VISITORS"></p>
 
 <details>
-    <summary><b>Click for GitHub Stats</b></summary>
+    <summary><strong>Click for GitHub Stats</strong></summary>
     <br/>
     <br/>
     <p align="center">
