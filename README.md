@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-For enquiries, reach out to @major200 over on:
+For enquiries, reach out to <a href="https://github.com/Major2000">@major2000</a> on:
 
 </p>
 
