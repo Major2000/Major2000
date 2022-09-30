@@ -1,1 +1,1 @@
-<p align="center"><a href="https://github.com/Major2000"><img src="./Assets/NUX_Octodex.gif" alt="Major2000" width="400px" height="400px"></a></p>
+<p align="center"><a href="https://github.com/Major2000"><img src="./Assets/NUX_Octodex.gif" alt="Major2000" width="460px" height="460px"></a></p>
