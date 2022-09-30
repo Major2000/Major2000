@@ -21,6 +21,9 @@
 
 <p align="center">
 For enquiries, reach out to <a href="https://github.com/Major2000">@major2000</a> on:
+<a><img src="https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=Blog&logoColor=white" alt="Blog"></a>
+<a><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
+<a><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
 
 </p>
 
