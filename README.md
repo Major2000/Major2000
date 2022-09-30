@@ -35,8 +35,8 @@ For enquiries, reach out to <a href="https://github.com/Major2000">@Major2000</a
 <details>
     <summary>Click for GitHub Stats</summary>
     <p align="center">
-        <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alexandresanlim&show_icons=true&count_private=true&theme=dark" width="350">
-        <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtenzq&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8"
+        <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Major2000&show_icons=true&count_private=true&theme=dark" width="350">
+        <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Major2000&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
     </p>
 </details>
 
