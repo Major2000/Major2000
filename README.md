@@ -33,7 +33,7 @@ For enquiries, reach out to <a href="https://github.com/Major2000">Edgar @Major2
 <p align="right"><img src="https://komarev.com/ghpvc/?username=Major2000&label=VISITORS"></p>
 
 <details>
-    <summary>Click for GitHub Stats</summary>
+    <summary color="green">Click for GitHub Stats</summary>
     <p align="center">
         <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Major2000&show_icons=true&count_private=true&theme=dark" width="350">
         <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Major2000&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
