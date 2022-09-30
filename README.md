@@ -4,4 +4,4 @@
 <h2 align="center">I'm Major2000</h2>
 <h3 align="center"><i>A little bit concentrated here but can see you.. </i></h3>
 <p></p>
-<h5 align="center"><i>good luck!</i></h5>
+<h2 align="center"><i>good luck!</i></h2>
