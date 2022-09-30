@@ -1,1 +1,1 @@
-[![Social banner for Major2000](/Assets/NUX_Octodex.gif)](major2000.github.com)
+<a href="https://github.com/Major2000"><img src="./Assets/NUX_Octodex.gif" align="center" alt="Major2000"></a>
