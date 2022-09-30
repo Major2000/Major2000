@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Major2000"><img src="./Assets/NUX_Octodex.gif" alt="Major2000" width="460px" height="460px"></a></p>
 
-<h1 align="center">Hi! :wave:</h1><p align="left"><img src="https://komarev.com/ghpvc/?username=Major2000&label=VISITORS"></p>
+<h1 align="center">Hi! :wave:</h1>
 <h2 align="center">I'm Major2000</h2>
 
 <p align="center">
@@ -22,8 +22,7 @@
 <h3 align="center"><i>A little bit concentrated here but can see you.. 👀</i></h3>
 
 <h2 align="center"><i>good luck!🌝</i></h2>
-<br/>
-
+<p align="right"><img src="https://komarev.com/ghpvc/?username=Major2000&label=VISITORS"></p>
 
 <details>
     <summary>Click for GitHub Stats</summary>
