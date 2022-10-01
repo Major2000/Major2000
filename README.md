@@ -1,7 +1,7 @@
 <p align="center"><a href="https://github.com/Major2000"><img src="./Assets/NUX_Octodex.gif" alt="Major2000" width="460px" height="460px"></a></p>
 
 <h1 align="center">Hi! :wave:</h1>
-<h2 align="center">I'm Edgar Nyandoro                       <img src="https://komarev.com/ghpvc/?username=Major2000&label=VISITORS"></h2>
+<h2 align="center">I'm Edgar Nyandoro</h2>
 
 <p align="center">
 
@@ -30,7 +30,7 @@ For enquiries, reach out to <a href="https://github.com/Major2000">Edgar @Major2
 <a href="https://hackerone.com/major2000"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerOne&logoColor=Blue"></a>
 </p>
 
-<!-- <p align="right"></p> -->
+<p align="right"><img src="https://komarev.com/ghpvc/?username=Major2000&label=VISITORS"></p>
 
 <details>
     <summary><strong>Click for GitHub Stats</strong></summary>
