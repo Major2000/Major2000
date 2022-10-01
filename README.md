@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Major2000"><img src="./Assets/NUX_Octodex.gif" alt="Major2000" width="460px" height="460px"></a></p>
 
-<h1 align="center">Hi! :wave:</h1>
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <h2 align="center">I'm Edgar Nyandoro</h2>
 
 <p align="center">
