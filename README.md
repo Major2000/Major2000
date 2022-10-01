@@ -44,11 +44,6 @@ For enquiries, reach out to <a href="https://github.com/Major2000">Edgar @Major2
         <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Major2000&layout=compact&langs_count=8&hide=html&theme=github_dark&border_radius=30&border_color=39D353&title_color=fff"/>
         <br><br><br>
         <img src="https://activity-graph.herokuapp.com/graph?username=Major2000&theme=github-dark&color=fff&line=39D353&point=fff&hide_border=true"/>
-        <br/><br/><br/>
-        <img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-stats.vercel.app/api?username=jackkweyunga&count_private=true&show_icons=true&theme=github_dark&border_radius=30&border_color=39D353&icon_color=39D353&title_color=fff" />
-        <br/><br/><br/>
-        <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackkweyunga&layout=compact&langs_count=8&hide=html&theme=github_dark&border_radius=30&border_color=39D353&title_color=fff"/>
-
     </div>
 </details>
 
