@@ -1,7 +1,7 @@
 <p align="center"><a href="https://github.com/Major2000"><img src="./Assets/NUX_Octodex.gif" alt="Major2000" width="460px" height="460px"></a></p>
 
 <h1 align="center">Hi! :wave:</h1>
-<h2 align="center">I'm Edgar Nyandoro</h2>
+<h2 align="center">I'm Edgar Nyandoro                       <img src="https://komarev.com/ghpvc/?username=Major2000&label=VISITORS"></h2>
 
 <p align="center">
 
@@ -30,16 +30,21 @@ For enquiries, reach out to <a href="https://github.com/Major2000">Edgar @Major2
 <a href="https://hackerone.com/major2000"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerOne&logoColor=Blue"></a>
 </p>
 
-<p align="right"><img src="https://komarev.com/ghpvc/?username=Major2000&label=VISITORS"></p>
+<!-- <p align="right"></p> -->
 
 <details>
     <summary><strong>Click for GitHub Stats</strong></summary>
     <br/>
     <br/>
-    <p align="center">
-        <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Major2000&show_icons=true&count_private=true&theme=dark" width="350">
-        <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Major2000&theme=nord&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
-    </p>
+    <div align="center" markdown="1">
+        <img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-stats.vercel.app/api?username=Major2000&count_private=true&show_icons=true&theme=github_dark&border_radius=30&border_color=39D353&icon_color=39D353&title_color=fff" />
+        <br><br><br>
+        <img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-streak-stats.herokuapp.com/?user=Major2000&theme=github-dark&hide_border=true"/>
+        <br><br><br>
+        <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Major2000&layout=compact&langs_count=8&hide=html&theme=github_dark&border_radius=30&border_color=39D353&title_color=fff"/>
+        <br><br><br>
+    <img src="https://activity-graph.herokuapp.com/graph?username=Major2000&theme=github-dark&color=fff&line=39D353&point=fff&hide_border=true"/>
+    </div>
 </details>
 
 
