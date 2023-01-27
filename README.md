@@ -44,7 +44,7 @@ For enquiries, reach out to <a href="https://github.com/Major2000">Edgar @Major2
         <br><br><br>
         <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Major2000&layout=compact&langs_count=8&hide=html,css&theme=github_dark&border_radius=30&border_color=39D353&title_color=fff"/>
         <br><br><br>
-        <img src="https://activity-graph.herokuapp.com/graph?username=Major2000&theme=github-dark&color=fff&line=39D353&point=fff&hide_border=true"/>
+        [![Edgar Nyandoro's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Major2000&theme=github-compact)](https://github.com/major2000/github-readme-activity-graph)
     </div>
 </details>
 
