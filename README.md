@@ -42,7 +42,7 @@ For enquiries, reach out to <a href="https://github.com/Major2000">Edgar @Major2
         <br><br><br>
         <img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-streak-stats.herokuapp.com/?user=Major2000&theme=github-dark&hide_border=true"/>
         <br><br><br>
-        <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Major2000&layout=compact&langs_count=8&hide=html,css&theme=github_dark&border_radius=30&border_color=39D353&title_color=fff"/>
+        <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Major2000&layout=compact&langs_count=8&hide=html,css,jupyter%20notebook&theme=github_dark&border_radius=30&border_color=39D353&title_color=fff"/>
 </details>
 
 
